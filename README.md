@@ -5,3 +5,4 @@
 
 
  [![abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabhinavreddycse2205c1-stack)](https://github.com/tabhinavreddycse2205c1-stack/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabhinavreddycse2205c1-stack)](https://github.com/tabhinavreddycse2205c1-stack/github-readme-stats)
